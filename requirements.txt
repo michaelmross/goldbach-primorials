@@ -1,0 +1,16 @@
+# Python dependencies for Goldbach Primorials verification code
+
+# SymPy: Symbolic mathematics library
+# Used for: prime number operations, primorial computation, prime factorization
+sympy>=1.12
+
+# NumPy: Numerical computing library
+# Used for: efficient numerical operations
+numpy>=1.24.0
+
+# Optional: For visualization (uncomment if needed)
+# matplotlib>=3.7.0
+
+# Optional: For Jupyter notebooks (uncomment if needed)
+# jupyter>=1.0.0
+# notebook>=7.0.0
