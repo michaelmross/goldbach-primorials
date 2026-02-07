@@ -10,9 +10,8 @@ for each prime q.
 
 Reference:
     "Goldbach's Conjecture for Primorials" (2026)
-    https://arxiv.org/abs/[to be added]
 
-Author: [Your name]
+Author: Michael M. Ross
 Date: February 2026
 License: MIT
 """
