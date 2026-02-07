@@ -170,7 +170,6 @@ goldbach-primorials/
 │   ├── lpf_output_k8.txt             # LPF symmetry output
 │   └── amplification_output.txt      # Amplification output
 ├── LICENSE                           # MIT License
-└── GITHUB_SETUP.md                   # Repository setup guide
 ```
 
 ## Mathematical Background
