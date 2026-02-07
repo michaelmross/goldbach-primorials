@@ -284,9 +284,9 @@ def main():
     """
     Main entry point for the script.
     """
-    # Default test: k = 3, 4, 5, 6, 8
+    # Default test: k = 3, 4, 5, 6, 7, 8
     # For k=8, this tests ~4.8 million pairs and takes 1-2 minutes
-    default_k_values = [3, 4, 5, 6, 8]
+    default_k_values = [3, 4, 5, 6, 7, 8]
     
     # Parse command line arguments
     if len(sys.argv) > 1:
@@ -299,7 +299,7 @@ def main():
             sys.exit(1)
     else:
         k_values = default_k_values
-        print("Using default k values: [3, 4, 5, 6, 8]")
+        print("Using default k values: [3, 4, 5, 6, 7, 8]")
         print("(Specify custom values as arguments: python lpf_symmetry_verification.py 3 4 5)\n")
     
     # Run tests
