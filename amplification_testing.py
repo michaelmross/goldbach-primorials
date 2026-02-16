@@ -4,9 +4,6 @@ Amplification Testing for Primorials - Goldbach Representations
 This script measures the pre-sieving amplification factor for primorials
 and verifies the success rate of finding Goldbach representations.
 
-Tests the claims in Sections 8.2-8.3 of:
-    "Goldbach's Conjecture for Primorials" (2026)
-
 For primorials N = p_k#, we measure:
 1. Amplification factor: How many more Goldbach representations exist
    compared to generic even numbers of similar size
