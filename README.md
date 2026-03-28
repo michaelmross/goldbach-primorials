@@ -1,11 +1,16 @@
-# Goldbach's Conjecture for Primorials - Computational Verification
+# Goldbach's Conjecture for Primorials 
 
-This repository contains computational verification code for the paper:
+Computational support for:
 
-> **Sieve Structures of Primorial Goldbach Complements**  
-> Michael M. Ross, 2026
+**Sieve Structures of Primorial Goldbach Complements**  
+Michael M. Ross, 2026
 
-> *Zenodo Record:* [19008286](https://zenodo.org/records/19008286)
+*Zenodo Record:* [19008286](https://zenodo.org/records/19008286)
+
+**The Goldbach Problem for Primorials: Singular Series, Type II Sums, and LPF Structure**  
+Michael M. Ross, 2026
+
+*Zenodo Record:* [19055865](https://zenodo.org/records/19055865)
 
 ## Overview
 
