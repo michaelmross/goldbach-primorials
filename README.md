@@ -2,8 +2,10 @@
 
 This repository contains computational verification code for the paper:
 
-> **"Goldbach's Conjecture for Primorials"**  
-> Michael M. Ross, 2026  
+> **Sieve Structures of Primorial Goldbach Complements**  
+> Michael M. Ross, 2026
+
+> *Zenodo Record:* [19008286](https://zenodo.org/records/19008286)
 
 ## Overview
 
