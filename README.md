@@ -12,16 +12,6 @@ Michael M. Ross, 2026
 
 *Zenodo Record:* [19055865](https://zenodo.org/records/19055865)
 
-## Overview
-
-We prove that every primorial p_k# with k ≥ 100 can be expressed as the sum of two primes, establishing Goldbach's conjecture for the first explicitly defined infinite family of even integers.
-
-The proof relies on two key computational findings:
-1. **LPF pairing symmetry** - A novel structural property unique to primorials
-2. **Pre-sieving amplification** - Automatic coprimality providing 5-7× (or higher) advantage
-
-This repository provides code to verify both properties.
-
 ## What Are Primorials?
 
 A primorial is the product of the first k primes:
